@@ -33,5 +33,5 @@ build/
 .vscode/
 
 ###properties###
-./SoundToTextService/src/main/resources/env.properties
+/SoundToTextService/src/main/resources/env.properties
 
